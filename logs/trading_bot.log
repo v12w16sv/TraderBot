@@ -1,0 +1,64 @@
+2026-03-26 11:53:37 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 11:53:37 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 11:53:37 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 11:53:37 - trading_bot - INFO - Retrieved price for BTCUSDT: 49850.5
+2026-03-26 11:59:54 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 11:59:54 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 11:59:54 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 11:59:54 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 11:59:54 - trading_bot - INFO - Retrieved price for BTCUSDT: 49850.5
+2026-03-26 12:00:32 - trading_bot - INFO - CLI command: place BTCUSDT BUY MARKET 0.01 
+2026-03-26 12:00:32 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 12:00:32 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 12:00:32 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 12:00:32 - trading_bot - INFO - Order manager initialized
+2026-03-26 12:00:32 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:00:32 - trading_bot - INFO - Current market price for BTCUSDT: 49850.5
+2026-03-26 12:00:32 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:00:32 - trading_bot - INFO - MOCK ORDER: MARKET BUY 0.01 BTCUSDT @ market (49850.5) -> Order ID: 1000023, Status: FILLED
+2026-03-26 12:00:32 - trading_bot - INFO - Order placed - Order ID: 1000023, Status: FILLED, Executed Qty: 0.01
+2026-03-26 12:01:22 - trading_bot - INFO - CLI command: place BTCUSDT SELL LIMIT 0.01 50000.0
+2026-03-26 12:01:22 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 12:01:22 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 12:01:22 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 12:01:22 - trading_bot - INFO - Order manager initialized
+2026-03-26 12:01:22 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:01:22 - trading_bot - INFO - MOCK ORDER: LIMIT SELL 0.01 BTCUSDT @ 50000.0 -> Order ID: 1000072, Status: NEW
+2026-03-26 12:01:22 - trading_bot - INFO - Order placed - Order ID: 1000072, Status: NEW, Executed Qty: 0
+2026-03-26 12:01:33 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 12:01:33 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 12:01:33 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 12:01:33 - trading_bot - INFO - Cancelled order 123456789 for BTCUSDT
+2026-03-26 12:09:11 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 12:09:11 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 12:09:11 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 12:09:11 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:09:11 - trading_bot - INFO - Retrieved price for BTCUSDT: 49850.5
+2026-03-26 12:09:45 - trading_bot - INFO - CLI command: place BTCUSDT BUY MARKET 0.01 
+2026-03-26 12:09:45 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 12:09:45 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 12:09:45 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 12:09:45 - trading_bot - INFO - Order manager initialized
+2026-03-26 12:09:45 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:09:45 - trading_bot - INFO - Current market price for BTCUSDT: 49850.5
+2026-03-26 12:09:45 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:09:45 - trading_bot - INFO - MOCK ORDER: MARKET BUY 0.01 BTCUSDT @ market (49850.5) -> Order ID: 1000034, Status: FILLED
+2026-03-26 12:09:45 - trading_bot - INFO - Order placed - Order ID: 1000034, Status: FILLED, Executed Qty: 0.01
+2026-03-26 12:10:16 - trading_bot - INFO - CLI command: place BTCUSDT SELL MARKET 0.01 
+2026-03-26 12:10:16 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 12:10:16 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 12:10:16 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 12:10:16 - trading_bot - INFO - Order manager initialized
+2026-03-26 12:10:16 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:10:16 - trading_bot - INFO - Current market price for BTCUSDT: 49850.5
+2026-03-26 12:10:16 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:10:16 - trading_bot - INFO - MOCK ORDER: MARKET SELL 0.01 BTCUSDT @ market (49850.5) -> Order ID: 1000050, Status: FILLED
+2026-03-26 12:10:16 - trading_bot - INFO - Order placed - Order ID: 1000050, Status: FILLED, Executed Qty: 0.01
+2026-03-26 12:10:39 - trading_bot - INFO - CLI command: place BTCUSDT SELL LIMIT 0.01 52000.0
+2026-03-26 12:10:39 - trading_bot - INFO - Running in mock mode - API keys not required
+2026-03-26 12:10:39 - trading_bot - INFO - RUNNING IN MOCK MODE - Simulating API responses (no real API calls)
+2026-03-26 12:10:39 - trading_bot - INFO -    Base URL would be: https://testnet.binancefuture.com
+2026-03-26 12:10:39 - trading_bot - INFO - Order manager initialized
+2026-03-26 12:10:39 - trading_bot - DEBUG - Mock price for BTCUSDT: 49850.5
+2026-03-26 12:10:39 - trading_bot - INFO - MOCK ORDER: LIMIT SELL 0.01 BTCUSDT @ 52000.0 -> Order ID: 1000081, Status: NEW
+2026-03-26 12:10:39 - trading_bot - INFO - Order placed - Order ID: 1000081, Status: NEW, Executed Qty: 0
